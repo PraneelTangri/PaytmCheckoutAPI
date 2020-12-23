@@ -1,4 +1,4 @@
-# PaytmCheckoutAPI
+# PaytmCheckoutAPI (PHP)
 ![logo](https://image3.mouthshut.com/images/imagesp/925923329s.png)
 ## This is a simple Example how to use PaytmAPI #
 ### Add API Ceredentials to __lib/paytm_config.php__ #
